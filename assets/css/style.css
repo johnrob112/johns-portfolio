@@ -35,11 +35,6 @@ p {
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
-    
-}
-
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -62,10 +57,10 @@ p {
 /* Hero style start */
 
 .hero {
-    height: 800px;
+    height: 400px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/portfolio-background.jpeg");
     background-size: cover;
     background-position: center;
 }
@@ -96,7 +91,7 @@ p {
     font-size: 36px;
 }
 
-/* Search engine, managemnt, marketing sections end */
+
 
 /* Benefits style start */
 
